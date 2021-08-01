@@ -84,7 +84,7 @@ const ProviderBlock = () => {
         {!isConnected['facebook.com'] && (
           <Button block color="blue" onClick={linkFacebook}>
             <Icon icon="facebook" />
-            Link to google
+            Link to facebook
           </Button>
         )}
       </div>
